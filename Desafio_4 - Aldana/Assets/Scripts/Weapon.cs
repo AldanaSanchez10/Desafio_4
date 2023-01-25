@@ -13,7 +13,7 @@ public class Weapon : MonoBehaviour
 
     void Update()
     {
-        shootBullets();
+        //shootBullets();
     }
 
     private void shootBullets()
